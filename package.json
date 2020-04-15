@@ -1,0 +1,14 @@
+{
+  "name": "known",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build"
+  },
+  "devDependencies": {
+    "fs-extra": "^9.0.0",
+    "js-yaml": "^3.13.1"
+  },
+  "dependencies": {}
+}
